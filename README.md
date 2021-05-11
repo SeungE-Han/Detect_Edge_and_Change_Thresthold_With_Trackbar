@@ -1,6 +1,7 @@
 # Detect_Edge_and_Change_Thresthold_With_Trackbar
 Detect edge in the picture
-! you can change thresthold with moving trackbar !
+
+! you can change thresthold with moving a trackbar !
 
 - input image
 
@@ -12,3 +13,4 @@ Detect edge in the picture
 
 ![image](https://user-images.githubusercontent.com/78711364/117750144-e3435a00-b24d-11eb-850f-b04372762cd7.png)
 
+you can see the defference in side section.
